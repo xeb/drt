@@ -1,0 +1,4 @@
+name: filehash
+description: Returns an MD5 hash of a file based on its contents
+image: xebxeb/filehash
+workingDir: /pwd

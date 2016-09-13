@@ -1,0 +1,4 @@
+name: dind
+description: Runs Docker-in-Docker functionality
+image: docker:dind
+workingDir: /pwd

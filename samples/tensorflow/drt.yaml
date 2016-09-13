@@ -1,0 +1,5 @@
+name: tensorflow
+description: Runs a TensorFlow script
+image: tensorflow/tensorflow:latest
+workingDir: /pwd
+cmd: /usr/bin/python
